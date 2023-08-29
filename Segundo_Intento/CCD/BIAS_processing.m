@@ -5,9 +5,9 @@ N=510;
 M=765;
 X=zeros(N,M,10);
 
-for i=1:10
-      X(:,:,i)= double(fitsread("BIASCCD\000"+num2str(i)+".FIT"));
-end 
+for i=0:9
+      X(:,:,i+1)= double(fitsread("BIASCCD\000"+num2str(i)+".FIT"));
+end
 figure(1)
 imshow(X(:,:,1))
 
