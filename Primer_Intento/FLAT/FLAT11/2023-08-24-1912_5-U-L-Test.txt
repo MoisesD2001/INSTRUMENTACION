@@ -1,0 +1,53 @@
+FireCapture v2.7.12 Settings
+------------------------------------
+Observer=Unknown
+Location=Unknown_City
+Scope=Unknown_Scope
+Camera=DMx 41AU02.AS
+Filter=L
+Profile=Test
+Filename=2023-08-24-1912_5-U-L-Test.jpg
+Date=240823
+Start=151232.930
+Mid=151233.456
+End=151233.982
+Start(UT)=191232.930
+Mid(UT)=191233.456
+End(UT)=191233.982
+Duration=1.052s
+Date_format=ddMMyy
+Time_format=HHmmss
+LT=UT -4h
+Frames captured=10
+FPS (avg.)=9
+File type=JPG
+Binning=1x1
+Bit depth=8bit
+Data=Mono
+ROI=640x480
+ROI(Offset)=0x0
+Shutter=5.000ms
+Gain=500 (48%)
+AutoExposure=off
+Brightness=0
+Gamma=100
+Histogramm(min)=241
+Histogramm(max)=255
+Histogramm=100%
+Noise(avg.deviation)=n/a
+eADU=n/a
+AutoAlign=false
+PreFilter=none
+Limit=10 Frames
+
+---------------Timestamps at start of exposure --------------------
+Frame 1:	240823 151232.929
+Frame 2:	240823 151232.982
+Frame 3:	240823 151233.049
+Frame 4:	240823 151233.116
+Frame 5:	240823 151233.249
+Frame 6:	240823 151233.316
+Frame 7:	240823 151233.650
+Frame 8:	240823 151233.716
+Frame 9:	240823 151233.850
+Frame 10:	240823 151233.917
